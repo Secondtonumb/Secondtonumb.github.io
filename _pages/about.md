@@ -15,9 +15,9 @@ Haopeng Geng is currently pursuing a Ph.D. at The University of Tokyo. His resea
 Before joining UTokyo, he worked as an AI software engineer at Laronix, an Australian start-up company that developed the world’s first pneumatic larynx. In this role, he was responsible for evaluating and improving the speech quality of products designed for the voice loss community. He earned his M.S. and B.S. degrees from Nagoya University and Dalian University of Technology (DLUT), respectively.
 
 # 📝 Publications 
-- [Simulating Native Speaker Shadowing for Nonnative Speech Assessment with Latent Speech Representations](), **Haopeng Geng**, Saito Daisuke, Nobuaki Minematsu. [🎧Demo](https://secondtonumb.github.io/publication_demo/ICASSP_2025/index.html)
+- [Simulating Native Speaker Shadowing for Nonnative Speech Assessment with Latent Speech Representations](https://arxiv.org/pdf/2409.11742), **Haopeng Geng**, Saito Daisuke, Nobuaki Minematsu.  **Submitting to ICASSP 2025**. [🎧Demo](https://secondtonumb.github.io/publication_demo/ICASSP_2025/index.html)
 
-- [A Pilot Study of Applying Sequence-to-Sequence Voice Conversion to Evaluate the Intelligibility of L2 Speech Using a Native Speaker’s Shadowings](), **Haopeng Geng**, Saito Daisuke, Nobuaki Minematsu. **Submitting to APSIPA 2024**. 
+- [A Pilot Study of Applying Sequence-to-Sequence Voice Conversion to Evaluate the Intelligibility of L2 Speech Using a Native Speaker’s Shadowings](https://arxiv.org/pdf/2410.02239), **Haopeng Geng**, Saito Daisuke, Nobuaki Minematsu. **Accepted by APSIPA 2024**. 
 [🎧Demo](https://secondtonumb.github.io/publication_demo/APSIPA_2024/index.html), 
 
 - [Disfluency Removal with Speech Inpainting on Spontaneous Lecture Speech](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202202243418490606), **Haopeng Geng**, YASUDA Yusuke, Tomoki Toda. **ASJ 2022**
@@ -35,7 +35,7 @@ Before joining UTokyo, he worked as an AI software engineer at Laronix, an Austr
   - B.A. in Japanese, Dalian University of Technology, China.
 
 # 💬 Work Experiences
-- *2022.03 - Present*, AI Software Engineer, [Laronix](https://www.laronix.com/), Australia.
+- *2022.03 - 2024.10*, AI Software Engineer, [Laronix](https://www.laronix.com/), Australia.
 
 # 🎖 Honors and Awards
 - *2024.03* [SPRING-GX](https://www.cis-trans.jp/spring_gx/) Scholarship, University of Tokyo.
