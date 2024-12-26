@@ -15,7 +15,7 @@ Haopeng Geng is currently pursuing a Ph.D. at The University of Tokyo. His resea
 Before joining UTokyo, he worked as an AI software engineer at Laronix, an Australian start-up company that developed the world’s first pneumatic larynx. In this role, he was responsible for evaluating and improving the speech quality of products designed for the voice loss community. He earned his M.S. and B.S. degrees from Nagoya University and Dalian University of Technology (DLUT), respectively.
 
 # 📝 Publications 
-- [Simulating Native Speaker Shadowing for Nonnative Speech Assessment with Latent Speech Representations](https://arxiv.org/pdf/2409.11742), **Haopeng Geng**, Saito Daisuke, Nobuaki Minematsu.  **Submitting to ICASSP 2025**. [🎧Demo](https://secondtonumb.github.io/publication_demo/ICASSP_2025/index.html)
+- [Simulating Native Speaker Shadowing for Nonnative Speech Assessment with Latent Speech Representations](https://arxiv.org/pdf/2409.11742), **Haopeng Geng**, Saito Daisuke, Nobuaki Minematsu. [🎧Demo](https://secondtonumb.github.io/publication_demo/ICASSP_2025/index.html)
 
 - [A Pilot Study of Applying Sequence-to-Sequence Voice Conversion to Evaluate the Intelligibility of L2 Speech Using a Native Speaker’s Shadowings](https://arxiv.org/pdf/2410.02239), **Haopeng Geng**, Saito Daisuke, Nobuaki Minematsu. **Accepted by APSIPA 2024**. 
 [🎧Demo](https://secondtonumb.github.io/publication_demo/APSIPA_2024/index.html), 
