@@ -39,18 +39,18 @@ Before joining UTokyo, he worked as an AI software engineer at Laronix, an Austr
   - B.A. in Japanese, Dalian University of Technology, China.
 
 # 💬 Work Experiences
-- *2022.07 - 2023.12*, Technical Assistant, [Nagoya University](https://icts.nagoya-u.ac.jp/ja/center/),
+- *2022.07 - 2023.12*, Technical Assistant, [Nagoya University](https://icts.nagoya-u.ac.jp/ja/center/), Japan.
 - *2022.03 - 2024.10*, AI Software Engineer, [Laronix](https://www.laronix.com/), Australia.
 
 # 🎖 Honors and Awards
-- *2024.03* [SPRING-GX](https://www.cis-trans.jp/spring_gx/) Scholarship, University of Tokyo.
+- *2024.03* [SPRING-GX](https://www.cis-trans.jp/spring_gx/) Scholarship, The University of Tokyo.
 - *2022.04* [Graduate program for real-world data circulation leaders](https://www.leading.nagoya-u.ac.jp/eng/program/program05.html), Nagoya University.
 - *2017.09* Scholarship for outstanding undergraduate students, CSC.
 
 
 
 # 💻 Internships
-- *2025.03 - Now*, Software Engineer, [CoeFont](https://coefont.cloud/),
-- *2025.01 - Now*, Research Assistant, [Carriage inc.](https://www.carri-age.com/),
+- *2025.03 - Now*, Software Engineer, [CoeFont](https://coefont.cloud/), Japan.
+- *2025.01 - Now*, Research Assistant, [Carriage inc.](https://www.carri-age.com/), Japan.
 - *2021.02*, [NTT Human Informatics Laboratories](https://www.rd.ntt/e/hil/), Japan.
 - *2021.08*, [NTT Human Informatics Laboratories](https://www.rd.ntt/e/hil/), Japan.
