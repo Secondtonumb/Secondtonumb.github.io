@@ -15,6 +15,10 @@ Haopeng Geng is currently pursuing a Ph.D. at The University of Tokyo. His resea
 Before joining UTokyo, he worked as an AI software engineer at Laronix, an Australian start-up company that developed the world’s first pneumatic larynx. In this role, he was responsible for evaluating and improving the speech quality of products designed for the voice loss community. He earned his M.S. and B.S. degrees from Nagoya University and Dalian University of Technology (DLUT), respectively.
 
 # 📝 Publications 
+
+- [A Perception-Based L2 Speech Intelligibility Indicator: Leveraging a Rater’s Shadowing and Sequence-to-sequence Voice Conversion](http://arxiv.org/abs/2505.24304), **Haopeng Geng**, Saito Daisuke, Nobuaki Minematsu. **Accepted by Interspeech 2025**. 
+[🎧Demo](https://secondtonumb.github.io/publication_demo/IS_2025/index.html), 
+
 - [Simulating Native Speaker Shadowing for Nonnative Speech Assessment with Latent Speech Representations](https://arxiv.org/pdf/2409.11742), **Haopeng Geng**, Saito Daisuke, Nobuaki Minematsu. [🎧Demo](https://secondtonumb.github.io/publication_demo/ICASSP_2025/index.html)
 
 - [A Pilot Study of Applying Sequence-to-Sequence Voice Conversion to Evaluate the Intelligibility of L2 Speech Using a Native Speaker’s Shadowings](https://arxiv.org/pdf/2410.02239), **Haopeng Geng**, Saito Daisuke, Nobuaki Minematsu. **Accepted by APSIPA 2024**. 
@@ -35,6 +39,7 @@ Before joining UTokyo, he worked as an AI software engineer at Laronix, an Austr
   - B.A. in Japanese, Dalian University of Technology, China.
 
 # 💬 Work Experiences
+- *2022.07 - 2023.12*, Technical Assistant, [Nagoya University](https://icts.nagoya-u.ac.jp/ja/center/),
 - *2022.03 - 2024.10*, AI Software Engineer, [Laronix](https://www.laronix.com/), Australia.
 
 # 🎖 Honors and Awards
@@ -45,5 +50,7 @@ Before joining UTokyo, he worked as an AI software engineer at Laronix, an Austr
 
 
 # 💻 Internships
+- *2025.03 - Now*, Software Engineer, [CoeFont](https://coefont.cloud/),
+- *2025.01 - Now*, Research Assistant, [Carriage inc.](https://www.carri-age.com/),
 - *2021.02*, [NTT Human Informatics Laboratories](https://www.rd.ntt/e/hil/), Japan.
 - *2021.08*, [NTT Human Informatics Laboratories](https://www.rd.ntt/e/hil/), Japan.
