@@ -24,7 +24,7 @@ Before joining UTokyo, he worked as an AI software engineer at Laronix, an Austr
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-- [IF-MDD: Indirect Fusion for Prompt-free Mispronunciation Detection and Diagnosis](../docs/Geng_ICASSP_2026_final.pdf) \\
+- [IF-MDD: Indirect Fusion for Prompt-free Mispronunciation Detection and Diagnosis](https://github.com/Secondtonumb/Secondtonumb.github.io/blob/main/docs/Geng_ICASSP_2026_final.pdf) \\
   <ins>**Haopeng Geng**</ins>, Saito Daisuke, Nobuaki Minematsu. \\
   🎧[Demo](https://secondtonumb.github.io/publication_demo/ICASSP_2026/index.html), 💻[Github Repo](https://github.com/Secondtonumb/IF-MDD) \\
   +	**Prompt-free Mispronunciation Detection** - Developed IF-MDD, an indirect fusion framework that leverages canonical phonemes only during training, enabling inference without text prompts.
