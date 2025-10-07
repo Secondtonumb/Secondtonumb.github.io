@@ -26,7 +26,7 @@ Before joining UTokyo, he worked as an AI software engineer at Laronix, an Austr
 <div class='paper-box-text' markdown="1">
 - [IF-MDD: Indirect Fusion for Prompt-free Mispronunciation Detection and Diagnosis](../docs/Geng_ICASSP_2026_final.pdf) \\
   <ins>**Haopeng Geng**</ins>, Saito Daisuke, Nobuaki Minematsu. \\
-  🎧[Demo](https://secondtonumb.github.io/publication_demo/ICASSP_2026/index.html), 💻[Open Source Code](https://github.com/Secondtonumb/IF-MDD) \\
+  🎧[Demo](https://secondtonumb.github.io/publication_demo/ICASSP_2026/index.html), 💻[Github Repo](https://github.com/Secondtonumb/IF-MDD) \\
   +	**Prompt-free Mispronunciation Detection** - Developed IF-MDD, an indirect fusion framework that leverages canonical phonemes only during training, enabling inference without text prompts.
 	+	**Strong Diagnostic Performance** - Achieved 60.67% F1 and 19.98% error diagnosis rate on L2-ARCTIC, showing competitive results even with limited training data.
 	+	**Robust Generalization** - Demonstrated reliable performance across unseen speakers from diverse L1 backgrounds, highlighting scalability for real-world CALL applications.
@@ -65,7 +65,7 @@ Ryoga Yamanaka, Kento Osa, Akari Fujiwara, <ins>**Haopeng Geng**</ins>, Daisuke 
 [A Pilot Study of Applying Sequence-to-Sequence Voice Conversion to Evaluate the Intelligibility of L2 Speech Using a Native Speaker’s Shadowings](https://arxiv.org/pdf/2410.02239) \\
 <ins>**Haopeng Geng**</ins>, Saito Daisuke, Nobuaki Minematsu. **Accepted by APSIPA 2024**. \\
 🎧[Demo](https://secondtonumb.github.io/publication_demo/APSIPA_2024/index.html), 
-
+💻[Github Repo](https://github.com/Secondtonumb/virtual_shadower)
 - <div class="badge">ASJ 2022</div> \\
 [Disfluency Removal with Speech Inpainting on Spontaneous Lecture Speech](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202202243418490606) \\
 <ins>**Haopeng Geng**</ins>, YASUDA Yusuke, Tomoki Toda. 
