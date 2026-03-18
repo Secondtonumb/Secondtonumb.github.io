@@ -17,7 +17,7 @@ Before joining UTokyo, he worked as an AI software engineer at Laronix, an Austr
 # 📣 News
 
 * **[Feb 2026]** 🥈 Our team **Utokyo** ranked **2nd Place** in the [Iqra'Eval2 Challenge](https://huggingface.co/spaces/IqraEval/Leaderboard) at **INTERSPEECH 2026**! \\
-   Check out our [Prompt-free MDD paper](https://secondtonumb.github.io/docs/IS2026.pdf), [Code](https://github.com/Secondtonumb/IF-MDD/) and [Checkpoints](https://huggingface.co/Haopeng/iqra_IFMDD_Con)!
+   Check out our [Prompt-free MDD paper](https://secondtonumb.github.io/IS2026.pdf), [Code](https://github.com/Secondtonumb/IF-MDD/) and [Checkpoints](https://huggingface.co/Haopeng/iqra_IFMDD_Con)!
 
 * **[Aug 2025]** 🚀 We have open-sourced the full implementation of **IF-MDD**, our prompt-free paradigm for mispronunciation detection and diagnosis! 
 
@@ -118,7 +118,7 @@ Ryoga Yamanaka, Kento Osa, Akari Fujiwara, <ins>**Haopeng Geng**</ins>, Daisuke 
 - *2022.03 - 2024.10*, AI Software Engineer, [Laronix](https://www.laronix.com/), Australia.
 
 # 🎖 Honors and Awards
-- *2026.02* [Iqra'Eval2 Challenge](Leaderboard) 🥈 2nd place, INTERSPEECH 2026.
+- *2026.02* [Iqra'Eval2 Challenge](https://huggingface.co/spaces/IqraEval/Leaderboardit) 🥈 2nd place, INTERSPEECH 2026.
 - *2024.03* [SPRING-GX](https://www.cis-trans.jp/spring_gx/) Scholarship, University of Tokyo.
 - *2022.04* [Graduate program for real-world data circulation leaders](https://www.leading.nagoya-u.ac.jp/eng/program/program05.html), Nagoya University.
 - *2017.09* Scholarship for outstanding undergraduate students, CSC.
