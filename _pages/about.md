@@ -118,6 +118,7 @@ Ryoga Yamanaka, Kento Osa, Akari Fujiwara, <ins>**Haopeng Geng**</ins>, Daisuke 
 - *2022.03 - 2024.10*, AI Software Engineer, [Laronix](https://www.laronix.com/), Australia.
 
 # 🎖 Honors and Awards
+- *2026.02* [Iqra'Eval2 Challenge](Leaderboard) 🥈 2nd place, INTERSPEECH 2026.
 - *2024.03* [SPRING-GX](https://www.cis-trans.jp/spring_gx/) Scholarship, University of Tokyo.
 - *2022.04* [Graduate program for real-world data circulation leaders](https://www.leading.nagoya-u.ac.jp/eng/program/program05.html), Nagoya University.
 - *2017.09* Scholarship for outstanding undergraduate students, CSC.
