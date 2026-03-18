@@ -19,13 +19,31 @@ Before joining UTokyo, he worked as an AI software engineer at Laronix, an Austr
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge">Submitted to INTERSPEECH 2026</div>
+    <img src='../images/CROTTC_IF/CTC_OTTC_ver2.png' alt="Framework" width="100%">
+    <img src='../images/CROTTC_IF/IFMDD2LLM.png' alt="LLM Limitation" width="100%">
+  </div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+- [Beyond Acoustic Sparsity and Linguistic Bias: A Prompt-Free Paradigm for Mispronunciation Detection and Diagnosis](https://secondtonumb.github.io/IS2026.pdf) \\
+  <ins>**Haopeng Geng**</ins>, Longfei Yang, Xi Chen et al. \\
+  + **Sensitive Acoustic Front-end** - Proposed a highly sensitive front-end to capture fine-grained phonetic deviations in non-native speech, addressing the acoustic sparsity issue.
+  + **Indirect Fusion Paradigm** - Developed a framework to effectively integrate multi-modal linguistic information into the MDD system without requiring explicit text prompts.
+  + **LLM Limitation Analysis** - Systematically verified the performance bottlenecks of Large Language Models in MDD tasks, specifically regarding linguistic bias and sparse acoustic input.
+</div>
+
+
 <div class="badge">Submitted to ICASSP 2026</div>
 <img src='../images/IF-MDD.png' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-- [IF-MDD: Indirect Fusion for Prompt-free Mispronunciation Detection and Diagnosis](https://github.com/Secondtonumb/Secondtonumb.github.io/blob/main/docs/Geng_ICASSP_2026_final.pdf) \\
-  <ins>**Haopeng Geng**</ins>, Saito Daisuke, Nobuaki Minematsu. \\
+- [IF-MDD: Indirect Fusion for Prompt-free Mispronunciation Detection and Diagnosis](https://secondtonumb.github.io/ICASSP2026.pdf) \\
+  <ins>**Haopeng Geng**</ins>, Daisuke Saito, Nobuaki Minematsu. \\
   🎧[Demo](https://secondtonumb.github.io/publication_demo/ICASSP_2026/index.html), 💻[Github Repo](https://github.com/Secondtonumb/IF-MDD) \\
   +	**Prompt-free Mispronunciation Detection** - Developed IF-MDD, an indirect fusion framework that leverages canonical phonemes only during training, enabling inference without text prompts.
 	+	**Strong Diagnostic Performance** - Achieved 60.67% F1 and 19.98% error diagnosis rate on L2-ARCTIC, showing competitive results even with limited training data.
