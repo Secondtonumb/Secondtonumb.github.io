@@ -10,26 +10,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Haopeng Geng is currently pursuing a Ph.D. at The University of Tokyo. His research interests lie in solving atypical speech phenomena, such as L2 speech, accented speech, and pathological speech, using deep learning and signal processing methods.
+Haopeng (Kevin) Geng is a Ph.D. candidate in the Department EEIS at the University of Tokyo. His research interests lie in solving atypical speech phenomena, such as L2 speech, accented speech, and pathological speech, using deep learning and signal processing methods.
 
 Before joining UTokyo, he worked as an AI software engineer at Laronix, an Australian start-up company that developed the world’s first pneumatic larynx. In this role, he was responsible for evaluating and improving the speech quality of products designed for the voice loss community. He earned his M.S. and B.S. degrees from Nagoya University and Dalian University of Technology (DLUT), respectively.
 
 # 📝 Publications 
-
 <div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">Submitted to INTERSPEECH 2026</div>
-<img src='../images/CROTTC_IF/CTC_OTTC_ver2.png' alt="Framework" width="100%">
-<img src='../images/CROTTC_IF/IFMDD2LLM.png' alt="LLM Limitation" width="100%">
-</div>
-</div>
-<div class='paper-box-text' markdown="1">
-- [Beyond Acoustic Sparsity and Linguistic Bias: A Prompt-Free Paradigm for Mispronunciation Detection and Diagnosis](https://secondtonumb.github.io/IS2026.pdf) \\
-  <ins>**Haopeng Geng**</ins>, Longfei Yang, Xi Chen et al. \\
-  + **Sensitive Acoustic Front-end** - Proposed a highly sensitive front-end to capture fine-grained phonetic deviations in non-native speech, addressing the acoustic sparsity issue.
-  + **Indirect Fusion Paradigm** - Developed a framework to effectively integrate multi-modal linguistic information into the MDD system without requiring explicit text prompts.
-  + **LLM Limitation Analysis** - Systematically verified the performance bottlenecks of Large Language Models in MDD tasks, specifically regarding linguistic bias and sparse acoustic input.
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Submitted to INTERSPEECH 2026</div>
+      <img src='../images/CROTTC_IF/CTC_OTTC_ver2.png' alt="Framework" width="100%" style="margin-bottom: 15px;">
+      <img src='../images/CROTTC_IF/IFMDD2LLM.png' alt="LLM Limitation" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+- [Beyond Acoustic Sparsity and Linguistic Bias: A Prompt-Free Paradigm for Mispronunciation Detection and Diagnosis](https://secondtonumb.github.io/docs/IS2026.pdf) \\
+  <ins>**Haopeng Geng**</ins>, Longfei Yang, Xi Chen et al. 
+
+  <div style="background: #fdf6e3; border-left: 5px solid #d4a017; padding: 10px 15px; margin: 12px 0; border-radius: 4px; font-size: 0.95em; color: #5c3e0d;">
+    🥈 <strong>Ranked <a href="https://huggingface.co/spaces/IqraEval/Leaderboard" target="_blank" style="color: #5c3e0d; font-weight: bold; text-decoration: underline;">2nd</a></strong> in the <strong><a href="https://huggingface.co/spaces/IqraEval/Leaderboard" target="_blank" style="color: #5c3e0d; text-decoration: none;">Iqra'Eval2 Challenge 2026!!</a></strong>
+  </div>
+
+  + **CROTTC Front-end** - Proposed a highly sensitive acoustic front-end to capture fine-grained phonetic deviations, effectively mitigating the **acoustic sparsity** inherent in traditional CTC-based MDD systems.
+  + **Indirect Fusion & Prompt-free Inference** - Developed a knowledge transfer paradigm to integrate pronunciation-specific cues into language models, enabling **prompt-free inference** while maintaining highly competitive cross-lingual performance.
+  + **LLM Limitation Analysis** - Conducted a systematic investigation into why Large Language Models struggle with **faithful, fine-grained phonetic recognition**, shedding light on the critical trade-off between linguistic priors and acoustic evidence.
 </div>
 </div>
 
@@ -60,7 +64,7 @@ Before joining UTokyo, he worked as an AI software engineer at Laronix, an Austr
 </div>
 <div class='paper-box-text' markdown="1">
 - [A Perception-Based L2 Speech Intelligibility Indicator: Leveraging a Rater’s Shadowing and Sequence-to-sequence Voice Conversion](https://www.isca-archive.org/interspeech_2025/geng25_interspeech.pdf) \\
-<ins>**Haopeng Geng**</ins>, Saito Daisuke, Nobuaki Minematsu. \\
+<ins>**Haopeng Geng**</ins>, Daisuke Saito, Nobuaki Minematsu. \\
 🎧[Demo](https://secondtonumb.github.io/publication_demo/IS_2025/index.html)
 	+ **Customized Intelligibility Indicator** – Proposed a novel metric leveraging native raters’ shadowing data, focusing on perceptual cues rather than purely native-like pronunciation.
 	+ **Seq2Seq Voice Conversion Framework** – Applied alignment and acoustic reconstruction modules to simulate how native listeners detect unintelligible segments.
@@ -75,12 +79,12 @@ Ryoga Yamanaka, Kento Osa, Akari Fujiwara, <ins>**Haopeng Geng**</ins>, Daisuke 
 
 - <div class="badge">Submitted to ICASSP 2025</div> \\
 [Simulating Native Speaker Shadowing for Nonnative Speech Assessment with Latent Speech Representations](https://arxiv.org/pdf/2409.11742) \\
-<ins>**Haopeng Geng**</ins>, Saito Daisuke, Nobuaki Minematsu \\
+<ins>**Haopeng Geng**</ins>, Daisuke Saito, Nobuaki Minematsu \\
 🎧[Demo](https://secondtonumb.github.io/publication_demo/ICASSP_2025/index.html)
 
 - <div class="badge">APSIPA ASC 2024</div> \\
 [A Pilot Study of Applying Sequence-to-Sequence Voice Conversion to Evaluate the Intelligibility of L2 Speech Using a Native Speaker’s Shadowings](https://arxiv.org/pdf/2410.02239) \\
-<ins>**Haopeng Geng**</ins>, Saito Daisuke, Nobuaki Minematsu. **Accepted by APSIPA 2024**. \\
+<ins>**Haopeng Geng**</ins>, Daisuke Saito, Nobuaki Minematsu. **Accepted by APSIPA 2024**. \\
 🎧[Demo](https://secondtonumb.github.io/publication_demo/APSIPA_2024/index.html), 
 💻[Github Repo](https://github.com/Secondtonumb/virtual_shadower)
 - <div class="badge">ASJ 2022</div> \\
