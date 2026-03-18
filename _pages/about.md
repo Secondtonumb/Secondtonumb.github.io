@@ -35,7 +35,7 @@ Before joining UTokyo, he worked as an AI software engineer at Laronix, an Austr
   + **Indirect Fusion Paradigm** - Developed a framework to effectively integrate multi-modal linguistic information into the MDD system without requiring explicit text prompts.
   + **LLM Limitation Analysis** - Systematically verified the performance bottlenecks of Large Language Models in MDD tasks, specifically regarding linguistic bias and sparse acoustic input.
 </div>
-
+</div>
 
 <div class="badge">Submitted to ICASSP 2026</div>
 <img src='../images/IF-MDD.png' alt="sym" width="100%">
