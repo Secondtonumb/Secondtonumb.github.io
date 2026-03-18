@@ -24,7 +24,7 @@ Before joining UTokyo, he worked as an AI software engineer at Laronix, an Austr
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-- [Beyond Acoustic Sparsity and Linguistic Bias: A Prompt-Free Paradigm for Mispronunciation Detection and Diagnosis](https://secondtonumb.github.io/docs/IS2026.pdf) \\
+- [Beyond Acoustic Sparsity and Linguistic Bias: A Prompt-Free Paradigm for Mispronunciation Detection and Diagnosis](https://secondtonumb.github.io/IS2026.pdf) \\
   <ins>**Haopeng Geng**</ins>, Longfei Yang, Xi Chen et al. 
 
   <div style="background: #fdf6e3; border-left: 5px solid #d4a017; padding: 10px 15px; margin: 12px 0; border-radius: 4px; font-size: 0.95em; color: #5c3e0d;">
