@@ -19,15 +19,11 @@ Before joining UTokyo, he worked as an AI software engineer at Laronix, an Austr
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div class="badge">Submitted to INTERSPEECH 2026</div>
-    <img src='../images/CROTTC_IF/CTC_OTTC_ver2.png' alt="Framework" width="100%">
-    <img src='../images/CROTTC_IF/IFMDD2LLM.png' alt="LLM Limitation" width="100%">
-  </div>
+<div class="badge">Submitted to INTERSPEECH 2026</div>
+<img src='../images/CROTTC_IF/CTC_OTTC_ver2.png' alt="Framework" width="100%">
+<img src='../images/CROTTC_IF/IFMDD2LLM.png' alt="LLM Limitation" width="100%">
 </div>
-
+</div>
 <div class='paper-box-text' markdown="1">
 - [Beyond Acoustic Sparsity and Linguistic Bias: A Prompt-Free Paradigm for Mispronunciation Detection and Diagnosis](https://secondtonumb.github.io/IS2026.pdf) \\
   <ins>**Haopeng Geng**</ins>, Longfei Yang, Xi Chen et al. \\
@@ -37,6 +33,9 @@ Before joining UTokyo, he worked as an AI software engineer at Laronix, an Austr
 </div>
 </div>
 
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
 <div class="badge">Submitted to ICASSP 2026</div>
 <img src='../images/IF-MDD.png' alt="sym" width="100%">
 </div>
@@ -45,9 +44,9 @@ Before joining UTokyo, he worked as an AI software engineer at Laronix, an Austr
 - [IF-MDD: Indirect Fusion for Prompt-free Mispronunciation Detection and Diagnosis](https://secondtonumb.github.io/ICASSP2026.pdf) \\
   <ins>**Haopeng Geng**</ins>, Daisuke Saito, Nobuaki Minematsu. \\
   🎧[Demo](https://secondtonumb.github.io/publication_demo/ICASSP_2026/index.html), 💻[Github Repo](https://github.com/Secondtonumb/IF-MDD) \\
-  +	**Prompt-free Mispronunciation Detection** - Developed IF-MDD, an indirect fusion framework that leverages canonical phonemes only during training, enabling inference without text prompts.
-	+	**Strong Diagnostic Performance** - Achieved 60.67% F1 and 19.98% error diagnosis rate on L2-ARCTIC, showing competitive results even with limited training data.
-	+	**Robust Generalization** - Demonstrated reliable performance across unseen speakers from diverse L1 backgrounds, highlighting scalability for real-world CALL applications.
+  + **Prompt-free Mispronunciation Detection** - Developed IF-MDD, an indirect fusion framework that leverages canonical phonemes only during training, enabling inference without text prompts.
+  + **Strong Diagnostic Performance** - Achieved 60.67% F1 and 19.98% error diagnosis rate on L2-ARCTIC, showing competitive results even with limited training data.
+  + **Robust Generalization** - Demonstrated reliable performance across unseen speakers from diverse L1 backgrounds, highlighting scalability for real-world CALL applications.
 </div>
 </div>
 
