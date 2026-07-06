@@ -29,7 +29,25 @@ Before joining UTokyo, he worked as an AI software engineer at Laronix, an Austr
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Submitted to INTERSPEECH 2026</div>
+      <div class="badge">Submitted to SLT 2026</div>
+      <img src='../images/SLT2026/topology_only_ver2.png' alt="Topology variants" width="100%" style="margin-bottom: 15px;">
+      <img src='../images/SLT2026/ctc_peak_ottc_probability_alignment_readable.png' alt="CTC and OTTC alignment" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+- [Subphonetic Acoustic Modeling via Optimal Transport for Pronunciation Assessment](https://secondtonumb.github.io/SLT2026_double_blind.pdf) \\
+  Double Blind Review. 
+
+  + **Subphonetic Acoustic Modeling** - Expands each phone into ordered internal states, producing dense frame-level acoustic evidence beyond sparse CTC peaks.
+  + **Optimal Transport Training** - Learns monotonic frame-to-state alignments with topology-aware optimal temporal transport, without requiring manual frame labels.
+  + **Pronunciation Assessment** - Provides more precise phone-internal timing and acoustic cues for segmentation, mispronunciation detection, and automatic pronunciation assessment.
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">INTERSPEECH 2026 (Long Paper)</div>
       <img src='../images/CROTTC_IF/CTC_OTTC_ver2.png' alt="Framework" width="100%" style="margin-bottom: 15px;">
       <img src='../images/CROTTC_IF/IFMDD2LLM.png' alt="LLM Limitation" width="100%">
     </div>
