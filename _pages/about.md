@@ -35,7 +35,7 @@ Before joining UTokyo, he worked as an AI software engineer at Laronix, an Austr
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-- [Subphonetic Acoustic Modeling via Optimal Transport for Pronunciation Assessment](https://secondtonumb.github.io/SLT2026_double_blind.pdf) \\
+- [Subphonetic Acoustic Modeling via Optimal Transport for Pronunciation Assessment](https://secondtonumb.github.io/docs/SLT2026_double_blind.pdf) \\
   Double Blind Review. 
 
   + **Subphonetic Acoustic Modeling** - Expands each phone into ordered internal states, producing dense frame-level acoustic evidence beyond sparse CTC peaks.
