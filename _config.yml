@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Haopeng Geng"
-  avatar           : "images/Geng.jpg"
+  avatar           : "images/Geng_2026.jpeg"
   bio              : "Ph.D. Candidate, The University of Tokyo"
   location         : "Tokyo, Japan"
   employer         :
@@ -41,7 +41,7 @@ author:
   github           : "Secondtonumb"
   google_plus      :
   keybase          :
-  instagram        : "kevingeng_koh" 
+  instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "haopeng-geng-139727182"
