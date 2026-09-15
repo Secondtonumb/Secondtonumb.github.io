@@ -26,6 +26,7 @@ Before beginning his Ph.D., he worked full-time as an AI Software Engineer at [L
 <span class='anchor' id='news'></span>
 
 # 📣 News
+* **[Sep 2026]** Our [paper](https://arxiv.org/pdf/2609.13694) on **subphonetic acoustic modeling** was accepted at **SLT 2026**.
 
 * **[Feb 2026]** 🥈 Our UTokyo team placed **2nd** in the [Iqra'Eval2 Challenge](https://huggingface.co/spaces/IqraEval/Leaderboard) at **INTERSPEECH 2026**. \\
    See our [prompt-free MDD paper](https://secondtonumb.github.io/IS2026.pdf), [code](https://github.com/Secondtonumb/IF-MDD/), and [checkpoints](https://huggingface.co/Haopeng/iqra_IFMDD_Con).
@@ -41,13 +42,13 @@ Before beginning his Ph.D., he worked full-time as an AI Software Engineer at [L
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Submitted to SLT 2026</div>
+      <div class="badge">SLT 2026</div>
       <img src='../images/SLT2026/topology_only_ver2.png' alt="Topology variants" width="100%" style="margin-bottom: 15px;">
       <img src='../images/SLT2026/ctc_peak_ottc_probability_alignment_readable.png' alt="CTC and OTTC alignment" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-- [Subphonetic Acoustic Modeling via Optimal Transport for Pronunciation Assessment](https://secondtonumb.github.io/docs/SLT2026_double_blind.pdf) \\
+- [Subphonetic Acoustic Modeling via Optimal Transport for Pronunciation Assessment](https://arxiv.org/pdf/2609.13694) \\
   Double Blind Review. 
 
   + **Subphonetic Acoustic Modeling** - Expands each phone into ordered internal states, producing dense frame-level acoustic evidence beyond sparse CTC peaks.
