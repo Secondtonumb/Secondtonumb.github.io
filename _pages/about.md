@@ -49,7 +49,7 @@ Before beginning his Ph.D., he worked full-time as an AI Software Engineer at [L
   </div>
   <div class='paper-box-text' markdown="1">
 - [Subphonetic Acoustic Modeling via Optimal Transport for Pronunciation Assessment](https://arxiv.org/pdf/2609.13694) \\
-  Double Blind Review. 
+    <ins>**Haopeng Geng**</ins>,  Jiun-Ting Li, and et al. 
 
   + **Subphonetic Acoustic Modeling** - Expands each phone into ordered internal states, producing dense frame-level acoustic evidence beyond sparse CTC peaks.
   + **Optimal Transport Training** - Learns monotonic frame-to-state alignments with topology-aware optimal temporal transport, without requiring manual frame labels.
